@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Sam, an Android software engineer.
+
+
+- 📫 How to reach me: 
+  * Telegram: [@sangming](https://t.me/sangming)
+  * Email: linming1007@gmail.com
