@@ -19,5 +19,5 @@ My name is Sam, an Android software engineer.
 
 
 - 📫 How to reach me: 
-  * Telegram: [@sangming](https://t.me/sangming)
+  * Telegram: [@msangs](https://t.me/msangs)
   * Email: linming1007@gmail.com
